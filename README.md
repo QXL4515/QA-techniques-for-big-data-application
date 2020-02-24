@@ -16,7 +16,7 @@ We carried out automatic searches on seven databases including ACM Digital Libra
 
 Stage 2: Grey literature
 
-We manually searched google Scholar with the defined search terms which is the topic of the research. In this stage, our main purpose is to manually find out the relevant documents that may be missed in the electronic database. We have increased from the initial 103 articles to 121 articles by snowballing, and finally selected 83 articles through detailed discussion.
+We manually searched google Scholar with the defined search terms which is the topic of the research. In this stage, our main purpose is to manually find out the relevant documents that may be missed in the electronic database. We have increased from the initial 102 articles to 121 articles by snowballing, and finally selected 83 articles through detailed discussion.
 
 Data management tool(NoteExpress)
 ================================================================================
